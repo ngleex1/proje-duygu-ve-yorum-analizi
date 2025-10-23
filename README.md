@@ -1,10 +1,18 @@
 # proje-duygu-ve-yorum-analizi
 
-### Not
-###Bu proje geliştirici galaksi120 hesabı  tarafından BTK Hackathon yarışması kapsamında hazırlanmıştır.  
+# ⚠️ ÖNEMLİ NOT
 
-###Proje dosyaları geliştiricinin iki farklı GitHub hesabında (kişisel ve yarışma hesabı) yedekleme amacıyla paylaşılmıştır.  
-###Her iki depodaki kod geliştiriciye aittir ve özgün şekilde geliştirilmiştir.
+## 🧩 Projenin Kökeni
+Bu proje geliştirici **galaksi120** tarafından **BTK Hackathon** yarışması kapsamında hazırlanmıştır.  
+
+
+## 💾 Paylaşım Bilgisi
+Proje dosyaları geliştiricinin **iki farklı GitHub hesabında** (kişisel ve yarışma hesabı)  **ngleex1** ve **galaksi120**
+**yedekleme ve sürüm kontrolü** amacıyla paylaşılmıştır.  
+
+## 🧠 Telif ve Özgünlük
+Her iki  hesaptaki depodaki kod **tamamen geliştiriciye aittir** ve özgün şekilde oluşturulmuştur.
+
 
 Bu projede amacımız 
 
