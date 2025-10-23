@@ -12,7 +12,7 @@ Proje dosyaları geliştiricinin **iki farklı GitHub hesabında** (kişisel ve 
 
 ## 🧠 Telif ve Özgünlük
 Her iki  hesaptaki depodaki kod **tamamen geliştiriciye aittir** ve özgün şekilde oluşturulmuştur.
-
+Proje, geliştiricinin iki farklı GitHub hesabında ([@ngleex1](https://github.com/ngleex1) ve [@galaksi120](https://github.com/galaksi120)) paylaşılmıştır.
 
 Bu projede amacımız 
 
