@@ -3,11 +3,11 @@
 # ⚠️ ÖNEMLİ NOT
 
 ## 🧩 Projenin Kökeni
-Bu proje geliştirici **galaksi120** tarafından **BTK Hackathon** yarışması kapsamında hazırlanmıştır.  
+Bu proje geliştirici **galaksi120** tarafından bireysel olarak  **BTK Hackathon** yarışması kapsamında hazırlanmıştır.  
 
 
 ## 💾 Paylaşım Bilgisi
-Proje dosyaları geliştiricinin **iki farklı GitHub hesabında** (kişisel ve yarışma hesabı)  **ngleex1** ve **galaksi120**
+Proje dosyaları geliştiricinin **iki farklı GitHub hesabında** (kişisel ve yarışma hesabı)  **ngleex1 ( Yarışma için kullandığım )** ve **galaksi120 (Bireysel olarak kullandığım)** 
 **yedekleme ve sürüm kontrolü** amacıyla paylaşılmıştır.  
 
 ## 🧠 Telif ve Özgünlük
