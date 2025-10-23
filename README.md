@@ -1,10 +1,10 @@
 # proje-duygu-ve-yorum-analizi
 
 ### Not
-#Bu proje geliştirici galaksi120 hesabı  tarafından BTK Hackathon yarışması kapsamında hazırlanmıştır.  
+###Bu proje geliştirici galaksi120 hesabı  tarafından BTK Hackathon yarışması kapsamında hazırlanmıştır.  
 
-#Proje dosyaları geliştiricinin iki farklı GitHub hesabında (kişisel ve yarışma hesabı) yedekleme amacıyla paylaşılmıştır.  
-#Her iki depodaki kod geliştiriciye aittir ve özgün şekilde geliştirilmiştir.
+###Proje dosyaları geliştiricinin iki farklı GitHub hesabında (kişisel ve yarışma hesabı) yedekleme amacıyla paylaşılmıştır.  
+###Her iki depodaki kod geliştiriciye aittir ve özgün şekilde geliştirilmiştir.
 
 Bu projede amacımız 
 
